@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Lucas 👋</h1>
-<h3 align="center">A passionate Front-End (and a beginner designer) developer from the US</h3>
+<h1 align="center">Hi, I'm Lucas Umberger 👋</h1>
+<h3 align="center">A passionate Software/Web Developer from the US</h3>
 
 - 🔭 I’m currently a sophmore at **Virginia Tech** and am pursuing a bachelors degree in Computer Science!
 
-- 🌱 I’m currently learning **Javascript, HTML5 and CSS3**
+- 🌱 I’m currently learning **Javascript, HTML5 and CSS3** and working to incorperate frameworks (Foundation, Bootstrap)
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **lucasumberger@gmail.com**
+- 📫 You can reach me at my email, **lucasumberger@gmail.com**
 
-- ⚡ What I like to do: Play tennis, watch movies, listen to music, and spend time with friends
+- ⚡ What I like to do: play tennis, watch movies, and spend time with friends
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -43,8 +43,5 @@
   </a>
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg" alt="node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/confluence?&aceid=&adposition=&adgroup=138055852541&campaign=18312196225&creative=666242883036&device=c&keyword=confluence&matchtype=e&network=g&placement=&ds_kids=p72969649871&ds_e=GOOGLE&ds_eid=700000001542923&ds_e1=GOOGLE&gad=1&gclid=Cj0KCQjwz8emBhDrARIsANNJjS7zU4w1HvUTES6ZqInpKWkc04upwN-W08YxtS6_g0wlgKNit-XOLCsaAri1EALw_wcB&gclsrc=aw.ds" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApKGFNK4ADSJPDzroSb-7-0G8HvojNBGKc3EUC2Dc9Q&s" alt="confluence" width="40" height="40"/>
   </a>
 </p>
