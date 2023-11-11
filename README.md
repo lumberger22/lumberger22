@@ -9,8 +9,6 @@
 
 - 📫 You can reach me at my email, **lucasumberger@gmail.com**
 
-- ⚡ What I like to do: play tennis, watch movies, and spend time with friends
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
