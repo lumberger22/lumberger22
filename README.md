@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a sophmore at **Virginia Tech** and am pursuing a bachelors degree in Computer Science!
 
-- 🌱 I’m currently learning **Javascript, HTML5 and CSS3** and working to incorperate frameworks (Foundation, Bootstrap)
+- 🌱 I’m currently learning **React JS** and working to incorperate frameworks (Bootstrap, Tailwind CSS)
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
