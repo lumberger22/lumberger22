@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Lucas Umberger 👋</h1>
-<h3 align="center">A passionate Software/Web Developer from the US</h3>
+<h3 align="center">A passionate Software Engineer from the US</h3>
 
 - 🔭 I’m currently a sophmore at **Virginia Tech** and am pursuing a bachelors degree in Computer Science!
 
-- 🌱 I’m currently learning **React JS** and working to incorperate frameworks (Bootstrap, Tailwind CSS)
+- 🌱 I’m currently learning **React JS** and working to incorperate backend frameworks (Spring Boot, PostreSQL)
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
