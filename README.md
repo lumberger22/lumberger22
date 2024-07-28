@@ -1,45 +1,46 @@
-<h1 align="center">Hi, I'm Lucas Umberger 👋</h1>
-<h3 align="center">A passionate Software Engineer from the US</h3>
+# Hi, I'm Lucas Umberger 👋
+### A passionate Software Engineer from the US
 
-- 🔭 I’m currently a sophmore at **Virginia Tech** and am pursuing a bachelors degree in Computer Science!
-
-- 🌱 I’m currently learning **React JS** and working to incorperate backend frameworks (Spring Boot, PostreSQL)
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
+- 🔭 I’m a Junior at **Virginia Tech** and am pursuing a bachelor's degree in Computer Science!
+- 🌱 I’m currently learning **React Native** to make dynamic and responsive mobile applications
 - 📫 You can reach me at my email, **lucasumberger@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+## Skills
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lumberger540)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.umberger/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasumberger@gmail.com)
-  
-</div>
+**Languages**:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=jetpack-compose)
 
-<h3 align="center">Languages and Tools:</h3>
+**Technologies**:
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+## Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/lumberger540">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.instagram.com/lucas.umberger/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="mailto:lucasumberger@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
