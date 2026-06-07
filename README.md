@@ -1,8 +1,8 @@
 # Hi, I'm Lucas Umberger 👋
 ### A passionate Software Engineer from the US
 
-- 🔭 I’m a Junior at **Virginia Tech** and am pursuing a bachelor's degree in Computer Science!
-- 🌱 I’m currently learning **React Native** to make dynamic and responsive mobile applications
+- 🔭 I’m a Senior at **Virginia Tech** and am pursuing a bachelor's degree in Computer Science!
+- 🌱 I’m currently working on training **AI Models** to make improve accuracy and develop my AI knowledge and understanding
 - 📫 You can reach me at my email, **lucasumberger@gmail.com**
 
 ## Skills
